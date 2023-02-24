@@ -641,7 +641,7 @@ ul.dropdown-menu li {
 }
 
 .bg-1 {
-  background: url("../images/bg/section-bg5.jpg") no-repeat 50% 50%;
+  background: url("../image/Zella.jpg") no-repeat 10% 35%;
   background-size: cover;
 }
 
@@ -651,7 +651,7 @@ ul.dropdown-menu li {
 }
 
 .banner {
-  position: relative;
+  position: top-right;
   overflow: hidden;
   background: #fff;
   background: url("../images/bg/main-banner1.jpg") no-repeat 80% 50%;
